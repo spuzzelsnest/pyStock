@@ -21,7 +21,7 @@ cd pyStock
 
 python3.9 -m venv venv
 
-venv/bin/activate
+source venv/bin/activate
 
 
 ```
