@@ -9,11 +9,11 @@ stock app in python
 
 ## Creating a python 3.9 environment
 
-'''
+```
 
 python3.9 -m venv ~/Documents/pyStock/venv
 
-'''
+```
 
 ## modules
 - pandas
